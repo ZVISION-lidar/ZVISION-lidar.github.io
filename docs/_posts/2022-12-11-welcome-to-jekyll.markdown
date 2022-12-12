@@ -8,3 +8,7 @@ Built on the NVIDIA Omniverse platform, Isaac Sim is a robot simulation and synt
 
 
 As an ecosystem partner of NVIDIA, ZVISION has collaborated with NVIDIA on Isaac sim's exploration in the field of LiDAR simulation. In addition to Isaac Sim's default mechanical LiDAR, ZVISION also explores simulation configurations for semi-solid LiDAR. The two attachments on this page are the model configuration files based on ZVISION’s long-range LiDAR ML-Xs and short-range LiDAR ML-30s, for the reference of those who are interested in Isaac Sim.
+
+[ML30S](data/Example_Solid_State_ML30S.json)
+
+[MLXS](data/Example_Solid_State_MLXS.json)
